@@ -1,0 +1,2 @@
+# Blackjack
+Apprenticeship duo Project
